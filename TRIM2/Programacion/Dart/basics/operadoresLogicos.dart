@@ -1,8 +1,5 @@
-void main(List<String> args) {
-  
-  // Operadores Logicos
-  // Operador AND (&&)
-  void main() {
+// Operador AND (&&) 
+void main() {
     bool tieneIdentificacion = true;
     int edad = 19;
 
@@ -12,5 +9,4 @@ void main(List<String> args) {
     } else {
       print('No cumple con los requisitos de ingreso.');
     }
-  }   
-}
+  }
