@@ -32,5 +32,6 @@ void main(List<String> args) {
   sueldoNeto = sueldo + incentivo;
 
   // 4. Salida
+  print("Empleado: $nombre");
   print("El salario neto a pagar es ${sueldoNeto.toInt()} y se tiene un incentivo de ${incentivo.toInt()}");
 }
